@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6AwHt81QLOdrKuuxzk9d/f8m3XhVKkU70KL60Y9tjZi6kuQyyH6kkU8vJS+qKu/TSamVQlRxuGB+0BIovaTHGw==",
+  "success": true,
+  "projectFilePath": "/Users/michaelwilson/RiderProjects/FSharpProjects/StylishFSharp/Library/Library.fsproj",
+  "expectedPackageFiles": [
+    "/Users/michaelwilson/.nuget/packages/fsharp.core/6.0.5/fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
