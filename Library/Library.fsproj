@@ -10,7 +10,12 @@
         <None Include="Chapter3\Chapter3.fsx" />
         <None Include="Chapter3\Exercise3-2.fsx" />
         <None Include="Chapter3\Exercise3-1.fsx" />
+        <None Include="Chapter4\Exercise4-4.fsx" />
+        <None Include="Chapter4\Exercise4-3.fsx" />
+        <None Include="Chapter4\Exercise4-2.fsx" />
+        <Compile Include="Chapter4\ExerciseSetup.fs" />
         <None Include="Chapter4\Chapter4.fsx" />
+        <None Include="Chapter4\Exercise4-1.fsx" />
     </ItemGroup>
 
 </Project>
