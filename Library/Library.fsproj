@@ -9,6 +9,7 @@
         <Compile Include="Library.fs" />
         <None Include="Chapter3\Chapter3.fsx" />
         <None Include="Chapter3\Exercise3-2.fsx" />
+        <None Include="Chapter3\Exercise3-1.fsx" />
     </ItemGroup>
 
 </Project>
