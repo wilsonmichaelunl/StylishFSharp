@@ -10,6 +10,12 @@
         <None Include="Chapter3\Chapter3.fsx" />
         <None Include="Chapter3\Exercise3-2.fsx" />
         <None Include="Chapter3\Exercise3-1.fsx" />
+        <None Include="Chapter4\Exercise4-10.fsx" />
+        <None Include="Chapter4\Exercise4-9.fsx" />
+        <None Include="Chapter4\Exercise4-8.fsx" />
+        <None Include="Chapter4\Exercise4-7.fsx" />
+        <None Include="Chapter4\Exercise4-6.fsx" />
+        <None Include="Chapter4\Exercise4-5.fsx" />
         <None Include="Chapter4\Exercise4-4.fsx" />
         <None Include="Chapter4\Exercise4-3.fsx" />
         <None Include="Chapter4\Exercise4-2.fsx" />
